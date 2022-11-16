@@ -1,0 +1,15 @@
+D:\Code\C#\ConsoleApp1\FileObcerver\bin\Debug\net6.0\FileObcerver.exe
+D:\Code\C#\ConsoleApp1\FileObcerver\bin\Debug\net6.0\FileObcerver.deps.json
+D:\Code\C#\ConsoleApp1\FileObcerver\bin\Debug\net6.0\FileObcerver.runtimeconfig.json
+D:\Code\C#\ConsoleApp1\FileObcerver\bin\Debug\net6.0\FileObcerver.dll
+D:\Code\C#\ConsoleApp1\FileObcerver\bin\Debug\net6.0\FileObcerver.pdb
+D:\Code\C#\ConsoleApp1\FileObcerver\obj\Debug\net6.0\FileObcerver.csproj.AssemblyReference.cache
+D:\Code\C#\ConsoleApp1\FileObcerver\obj\Debug\net6.0\FileObcerver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\ConsoleApp1\FileObcerver\obj\Debug\net6.0\FileObcerver.AssemblyInfoInputs.cache
+D:\Code\C#\ConsoleApp1\FileObcerver\obj\Debug\net6.0\FileObcerver.AssemblyInfo.cs
+D:\Code\C#\ConsoleApp1\FileObcerver\obj\Debug\net6.0\FileObcerver.csproj.CoreCompileInputs.cache
+D:\Code\C#\ConsoleApp1\FileObcerver\obj\Debug\net6.0\FileObcerver.dll
+D:\Code\C#\ConsoleApp1\FileObcerver\obj\Debug\net6.0\refint\FileObcerver.dll
+D:\Code\C#\ConsoleApp1\FileObcerver\obj\Debug\net6.0\FileObcerver.pdb
+D:\Code\C#\ConsoleApp1\FileObcerver\obj\Debug\net6.0\FileObcerver.genruntimeconfig.cache
+D:\Code\C#\ConsoleApp1\FileObcerver\obj\Debug\net6.0\ref\FileObcerver.dll
